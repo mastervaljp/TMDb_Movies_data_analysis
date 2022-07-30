@@ -63,10 +63,10 @@ The objective of our analysis are;
 ----
 # Exploratory Analysis
 
-![Chart 1](https://user-images.githubusercontent.com/74934727/181943705-95bcd2ba-9907-49c1-8cff-9be4aa8fa353.png)
+![](https://user-images.githubusercontent.com/74934727/181943705-95bcd2ba-9907-49c1-8cff-9be4aa8fa353.png)
 
 
-![Chart 2](https://user-images.githubusercontent.com/74934727/181943830-c21e1978-8880-4332-a0d9-9b4461623867.png)
+<img ![The First Five Movies with the Highest Profit relative to the budget] src='(https://user-images.githubusercontent.com/74934727/181943830-c21e1978-8880-4332-a0d9-9b4461623867.png)', style='background-color:white;'>
 
 
 ![chart 3](https://user-images.githubusercontent.com/74934727/181943846-6c1c8315-5c2d-40fb-b43b-c04d2df7326e.png)
