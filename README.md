@@ -1,10 +1,11 @@
 # Project Name: TMDb_Movies_data_analysis
 
 ----
-# Project Description
+# Introduction
+
 This is an analysis done on TMDb movies dataset of 1960 to 2015
 
-This dataset contains information about 10,000 movies collected from TMDb Database including user ratings, budget for each movie and revenue.
+The dataset contains information about 10,000 movies collected from TMDb Database including user ratings, budget for each movie and revenue.
 
 Below is the list of columns names in our dataset and their significance
 
@@ -43,9 +44,20 @@ Below is the list of columns names in our dataset and their significance
 `release_year` - The year the movie was released
 
 ----
-# Introduction
+# Research Question(s) for Analysis
+This dataset will be analysed to answer the foll0ing the following questions;
 
+ 1. What year did TMDb Movies made the highest profit?
+ 2. Which TMDb movie has the highest profit expressed as a percentage of its budget?
+ 3. What is the correlation between the attributes of our TMDb movies dataset?
+ 
+----
+# Objective of Analysis
+The objective of our analysis are;
 
+1. To identify the year TMDb movies made the highest profit
+2. To determine the movie that has the highest percentage, when profit is expressed as a percentage of its budget.
+3. To ascertain the correlation between different attributes of TMDb dataset.
 
 
 
