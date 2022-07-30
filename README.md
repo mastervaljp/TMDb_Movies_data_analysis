@@ -63,21 +63,26 @@ The objective of our analysis are;
 ----
 # Exploratory Analysis
 
-![](https://user-images.githubusercontent.com/74934727/181943705-95bcd2ba-9907-49c1-8cff-9be4aa8fa353.png)
+![The Top Five Years With the Highest Profit](https://user-images.githubusercontent.com/74934727/181943705-95bcd2ba-9907-49c1-8cff-9be4aa8fa353.png)
 
 
-<img ![The First Five Movies with the Highest Profit relative to the budget] src='(https://user-images.githubusercontent.com/74934727/181943830-c21e1978-8880-4332-a0d9-9b4461623867.png)', style='background-color:white;'>
+![The First Five Movies with the Highest Profit relative to the budget](https://user-images.githubusercontent.com/74934727/181943830-c21e1978-8880-4332-a0d9-9b4461623867.png)
 
 
-![chart 3](https://user-images.githubusercontent.com/74934727/181943846-6c1c8315-5c2d-40fb-b43b-c04d2df7326e.png)
+![Correlation of TMDb Movies dataset attributes](https://user-images.githubusercontent.com/74934727/181943846-6c1c8315-5c2d-40fb-b43b-c04d2df7326e.png)
 
 
 
 ----
 # Conclusion and Findings
-
-
-
+1. From our analysis we were able to ascertain that TMDb movies generated the highest profit in 2015.
+2. Also, we discovered that From Prada to Nada movie has the highest profit in relative to budget.
+3. We found that;
+   `revenue` and `popularity` is highly correlated with `vote_counts`.
+   `revenue` is highly correlated with `budget`.
+   `vote_counts` is highly correlated with `profit`.
 
 ----
-# Limitations 
+# Limitations
+The filtered dataset contained vast number of Null values of which certain revenue values where dropped when budget is zero and budget when revenue is zero as well. Also, I dropped many columns from the dataset which where not needed for my analysis.
+
