@@ -9,10 +9,15 @@ This dataset contains information about 10,000 movies collected from TMDb Databa
 Below is the list of columns names in our dataset and their significance
 
 `id` - This is a unique identifier for each movie
+
 `popularity` - A numeric quantity specifying the movie popularity
+
 `budget` - The cost in which the movie was made
+
 `revenue` - The worldwide revenue generated from the movie
+
 `original_title` - The title of the movie before translation or adaptaion
+
 `cast` - The name of lead and supporting actors
 
 `homepage` - A link to the homepage of the movie
